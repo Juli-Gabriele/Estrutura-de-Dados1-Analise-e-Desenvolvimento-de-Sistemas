@@ -26,3 +26,4 @@ using namespace std;
     cout << "A media das notas: "<< media <<endl;
      cout <<"A quantidade de numeros acima da media e: "<< q <<endl;
     cout << "O maior numero e :"<< maior <<endl;
+ }
