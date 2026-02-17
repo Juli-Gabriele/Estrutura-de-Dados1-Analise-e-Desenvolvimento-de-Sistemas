@@ -21,7 +21,7 @@ int main()
      }
      
      if (repetido != true){
-         cout << "ok"<< endl;
+         cout << "Tem números repetidos"<< endl;
      }else{
-         cout <<"no"<< endl;
+         cout <<"Não tem numeros repetidos"<< endl;
      }
