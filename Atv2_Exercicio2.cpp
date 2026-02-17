@@ -1,5 +1,5 @@
 #include <iostream>
-#define tam 3
+#define tam 10
   using namespace std;
 int main()
 {
