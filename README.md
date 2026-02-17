@@ -29,4 +29,36 @@ Algoritmo que verifica critérios de segurança:
 ✔ Presença de caractere especial
 
 Conceitos aplicados: Strings,Percurso de arrays,Validação lógica.
+
+# Exercício 4 
+
+Conversão de Tempo (Segundos → Horas, Minutos e Segundos)
+
+Programa que recebe um valor inteiro representando um tempo total em segundos e converte para o formato:
+
+Horas, Minutos e Segundos
+
+Exemplo:
+3665 segundos → 1h, 1min e 5seg.
+
+Conceitos aplicados:
+Divisão inteira • Operador resto (%) • Cálculos matemáticos • Organização de variáveis
+
+
+# Exercício 5 
+
+Verificação de Elementos Únicos em Vetor
+
+Função que recebe um vetor de números inteiros e verifica se todos os elementos são distintos.
+
+O programa:
+
+Compara cada elemento com os elementos subsequentes
+
+Identifica se existem números repetidos
+
+Retorna mensagem informando se o vetor possui ou não duplicatas
+
+Conceitos aplicados:
+Vetores • Estruturas de repetição aninhadas • Comparações • Lógica de validação
  
